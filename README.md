@@ -11,6 +11,6 @@ make
 ./bm gcatcgcagagagtatacagtacggcatcgcagagagtatacagtacg gcagagag
 ```
 
-== Licensing ==
+## Licensing 
 
 GPL v3 or later
